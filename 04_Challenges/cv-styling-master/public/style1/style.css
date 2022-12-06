@@ -235,18 +235,8 @@ header {
 
 }
 
-h3{
-    display: list-item;
-    font-size: 25px;
-    
-  }
 
-  h3::marker{
-    color: rgb(238, 13, 13);
-    font-size: 60px;
-    margin-left: 500px;
-   
-  }
+
 
 #about {
     max-height: 900px;
@@ -312,9 +302,7 @@ h3{
 
 
 }
-#contact h3::marker{
-    color:black;
-}
+
 
 .skills .skill {
     background-color: #999999;
