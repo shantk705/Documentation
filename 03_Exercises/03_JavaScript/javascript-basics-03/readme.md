@@ -1,4 +1,4 @@
-# Javascript Basics 3 - Style Manipulation
+ # Javascript Basics 3 - Style Manipulation
 
 - Get to your submission folder under exercises/javascript-basics-03
 - Each step has a prepared html file to work with, use it
