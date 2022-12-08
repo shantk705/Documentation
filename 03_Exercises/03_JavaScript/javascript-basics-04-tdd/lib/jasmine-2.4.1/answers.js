@@ -23,7 +23,7 @@ const removeSpaces = text => {
   return text.trim();
 };
 const IsString = text => {
-  return (text.IsString = true);
+  return text.trim();
 };
 
 const getExtension = text => {
