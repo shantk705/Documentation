@@ -31,7 +31,7 @@
 
 1. Target the input (use `querySelector`)
 2. When the input loses focus, show a dialog saying "thank you for participating!" (user `onblur` or `addEventListener`)
-3. Commit  
+3. Commit .
 
 ## Step 3
 
