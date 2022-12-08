@@ -47,6 +47,7 @@
 2. When "Reset" is pressed, show a "yes/no" dialog, and clear all fields IF the user presses "yes"
 3. Commit  
 
+
 ## Step 5
 
 1. Same as Step 1, but with 5 images.
