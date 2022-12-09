@@ -35,4 +35,18 @@ WHERE name='Alex';
 
 
 
+((creating table))..
+
+10- INSERT INTO graduates ('ID', 'name', 'Age','Gender','Points')
+SELECT ID, name, Age,Gender,Points
+FROM students
+WHERE name='Layal';
+
+11- UPDATE graduates
+set Graduation='08/09/2018'
+WHERE name='Layal';
+
+12- DELETE FROM students WHERE name='Layal';
+    
+13- commited to git!
 
